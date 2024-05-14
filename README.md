@@ -1,5 +1,5 @@
 # 100 days of code
 
-| Day | Date        | Study | Practice | 
-| --- | ----------- | ----- | -------- |
-| 1   | May 14 2024 |       |          |
+| Day | Date        | Study                                                                                                                                           | Practice                                                                                                                                                                                                                                                                     |
+| --- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | May 14 2024 | Css absolute vs relative units ([good article on this topic](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)) | - Continued development of [ Puzzle ](https://github.com/DmitriyIshchenko/puzzle) project: implemented basic authentication <br> - Set up Github [Project](https://github.com/users/DmitriyIshchenko/projects/5) for Puzzle project - no more committing straight to master! |
