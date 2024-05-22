@@ -2,6 +2,7 @@
 
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
+| 9 | May 22 2024 | | Leetcode: solved 905, 283, 1051, 414 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - refactored state management
 | 8 | May 21 2024 | | Leetcode: solved 26, 1346, 941, 1299 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented autocomplete button
 | 7 | May 20 2024 | | Leetcode: solved 27, 88 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented check answer button
 | 6 | May 19 2024 | | Leetcode: solved 485, 1295, 977, 1089 <br> | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented Observer pattern for data flow <br> - implemented round stages <br> - implemented continue button <br>
