@@ -2,6 +2,7 @@
 
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
+| 13 | May 26 2024 | | Leetcode: solved 344, 2703
 | 12 | May 25 2024 | Drag-n-Drop native API <br> Custom drag-n-drop implementation | Leetcode: solved 67 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implementing drag-n-drop feature (in progress)
 | 11 | May 24 2024 | | Leetcode: solved 724, 747, 66 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - continued state management refactoring <br> - implemented empty cells for selected/deselected words
 | 10 | May 23 2024 | | Leetcode: solved 1, 448 
