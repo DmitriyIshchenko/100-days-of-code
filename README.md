@@ -2,7 +2,8 @@
 
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
-| 15 | May 30 2024 | Mouse events, event delegation | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented drag-n-drop |
+| 16 | May 31 2024 | Data attributes | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - finished implementing drag-n-drop <br> - refactored state management <br> - changed minor styles |
+| 15 | May 30 2024 | Mouse events, event delegation | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented drag-n-drop (in progress)|
 | 14 | May 27 2024 | Drag-n-drop implementations | Leetcode: solved 9
 | 13 | May 26 2024 | | Leetcode: solved 344, 2703
 | 12 | May 25 2024 | Drag-n-Drop native API <br> Custom drag-n-drop implementation | Leetcode: solved 67 <br> [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implementing drag-n-drop feature (in progress) |
