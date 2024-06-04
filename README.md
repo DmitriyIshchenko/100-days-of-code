@@ -2,6 +2,7 @@
 
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
+| 18 | June 4 2024 | Mediator pattern <br> SVG animations | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented translation hint |
 | 17 | June 1 2024 | CSS mask, CSS clip-path |  [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - transformed the word cards into puzzle pieces with interlocking shapes on their sides |
 | 16 | May 31 2024 | Data attributes | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - finished implementing drag-n-drop <br> - refactored state management <br> - changed minor styles |
 | 15 | May 30 2024 | Mouse events, event delegation | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented drag-n-drop (in progress)|
