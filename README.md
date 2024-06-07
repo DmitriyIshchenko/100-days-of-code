@@ -2,6 +2,7 @@
 
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
+| 20 | June 7 2024 | CSS background image property | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented pronunciation hint visibility toggle |
 | 19 | June 6 2024 | SVG animations | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented pronunciation hint <br> - animated hint button during playback  |
 | 18 | June 4 2024 | Mediator pattern <br> SVG animations | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented translation hint |
 | 17 | June 1 2024 | CSS mask, CSS clip-path |  [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - transformed the word cards into puzzle pieces with interlocking shapes on their sides |
