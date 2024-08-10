@@ -1,5 +1,13 @@
 # 100 days of code
 
+## Attempt #2
+
+| Day | Date | Studied | Practiced |
+| --- | --- | --- | --- |
+| 1 | August 10 2024 |  | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - decomposed main state <br> - replaced buttons with checkboxes  |
+
+
+## Attempt #1 (failed)
 | Day | Date | Study | Practice |
 | --- | --- | --- | --- |
 | 20 | June 7 2024 | CSS background image property | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented pronunciation hint visibility toggle |
