@@ -4,7 +4,8 @@
 
 | Day | Date | Studied | Practiced |
 | --- | --- | --- | --- |
-| 1 | August 10 2024 |  | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - decomposed main state <br> - replaced buttons with checkboxes  |
+| 2 | August 11 2024 | CSS `background-image` and `background-position` properties | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - implemented background images for puzzle pieces |
+| 1 | August 10 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) project: <br> - decomposed main state <br> - replaced buttons with checkboxes |
 
 
 ## Attempt #1 (failed)
