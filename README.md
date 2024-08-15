@@ -4,6 +4,7 @@
 
 | Day | Date | Studied | Current project | Done |
 | --- | --- | --- | --- | --- |
+| 6 | August 15 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
 | 5 | August 14 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
 | 4 | August 13 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implemented a hint settings persistence |
 | 3 | August 12 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented a toggle feature that allows players to control the visibility of background images on puzzle pieces | 
