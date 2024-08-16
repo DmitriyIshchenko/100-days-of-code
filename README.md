@@ -4,6 +4,7 @@
 
 | Day | Date | Studied | Current project | Done |
 | --- | --- | --- | --- | --- |
+| 7 | August 16 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored state classes <br> - implementing a round selection feature (in progress) |
 | 6 | August 15 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
 | 5 | August 14 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
 | 4 | August 13 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implemented a hint settings persistence |
