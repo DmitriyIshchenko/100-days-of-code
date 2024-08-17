@@ -4,6 +4,7 @@
 
 | Day | Date | Studied | Current project | Done |
 | --- | --- | --- | --- | --- |
+| 8 | August 17 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored components <br> - implemented a round selection feature (completed) <br> - implemented a game loop: start the next difficulty after beating the current one |
 | 7 | August 16 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored state classes <br> - implementing a round selection feature (in progress) |
 | 6 | August 15 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
 | 5 | August 14 2024 | | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | implementing a round selection feature (in progress) |
