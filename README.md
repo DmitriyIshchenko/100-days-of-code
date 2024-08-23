@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 13 | August 23, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented cards that adjust their backgrounds when the window is resized <br> - fixed A LOT of bugs | TypeScript Record utility type |
 | 12 | August 22, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - applied responsive design to start page <br> - applied responsive design to game fields <br> - implemented warning for users with small screens <br> - refactored the game page configuration | CSS style queries |
 | 11 | August 21, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | | CSS container queries |
 | 10 | August 19, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implementing responsive design (in progress) | |
