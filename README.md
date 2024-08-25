@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 15 | August 25, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented a modal window <br> - created a button to access statistics inside the modal <br - created a placeholder for statistics | HTML `<dialog>` element |
 | 14 | August 24, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented a reveal of painting and info once the round is completed <br> - fixed the autocomplete button bug | CSS `animation` property |
 | 13 | August 23, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented cards that adjust their backgrounds when the window is resized <br> - fixed A LOT of bugs | TypeScript Record utility type |
 | 12 | August 22, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - applied responsive design to start page <br> - applied responsive design to game fields <br> - implemented warning for users with small screens <br> - refactored the game page configuration | CSS style queries |
