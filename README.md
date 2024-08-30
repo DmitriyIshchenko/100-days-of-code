@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 20 | August 30, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixing the flickering bug | |
 | 19 | August 29, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - Fixed a bug with updating the rating on round replays <br> - Refactored the card component to extract the drag-and-drop implementation into a separate class | |
 | 18 | August 28, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - implemented visual indicators for completed rounds  <br> - implemented a round rating system | JavaScript `Map` |
 | 17 | August 27, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - displayed the artwork miniature on the stats window <br> - fixed a bug in the unsubscribing function <br> - implemented saving level progress to local storage <br> - fixed a bug with level controls | |
