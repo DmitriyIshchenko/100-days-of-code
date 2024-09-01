@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 22 | September 1, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixed the jumping cards bug <br> - fixed the flickering <br> - refactored the row updating system | |
 | 21 | August 31, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixing the jumping cards bug | |
 | 20 | August 30, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixing the flickering bug | |
 | 19 | August 29, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - Fixed a bug with updating the rating on round replays <br> - Refactored the card component to extract the drag-and-drop implementation into a separate class | |
