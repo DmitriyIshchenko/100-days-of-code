@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 25 | September 11, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored types | |
 | 24 | September 2, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | | Feature sliced design |
 | 23 | September 2, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixed the window resizing bug <br - implemented a debounce decorator | Decorators as a concept <br> Typescript 5.0 new decorators |
 | 22 | September 1, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - fixed the jumping cards bug <br> - fixed the flickering <br> - refactored the row updating system | |
