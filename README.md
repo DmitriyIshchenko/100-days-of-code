@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 28 | September 14, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - spread helpers contents around all layers | Feature sliced design |
 | 27 | September 13, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - created a widget layer <br> - created an entities layer <br> - update the app layer | Feature sliced design |
 | 26 | September 12, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - created a shared layer | Feature sliced design |
 | 25 | September 11, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored types | |
