@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 31 | October 11, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - got rid of "helpers" utility dump | Feature sliced design |
 | 30 | October 10, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - updated public APIs for slices <br> - gave file more suitable names | Feature sliced design |
 | 29 | October 9, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - refactored features and widgets layers | Feature sliced design |
 | 28 | September 14, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - spread helpers contents around all layers | Feature sliced design |
