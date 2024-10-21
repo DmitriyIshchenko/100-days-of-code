@@ -1,6 +1,12 @@
 # 100 days of code
 
-## Attempt #2
+## Attempt #3
+
+| Day | Date | Current project | Done | Studied |
+| --- | --- | --- | --- | --- |
+| 1 | October 21, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - update auth state <br> - display correct username | |
+
+## Attempt #2 (better but still failed)
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
