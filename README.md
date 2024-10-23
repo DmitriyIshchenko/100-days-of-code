@@ -4,7 +4,8 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
-| 1 | October 22, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - updated the LoginForm component <br> - moved validation to shared layer | Feature Sliced Design |
+| 3 | October 23, 2024 | Christmas shop | - started new RS School task <br> - set up the project boilerplate <br> - set up the deployment to GitHub pages | |
+| 2 | October 22, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - updated the LoginForm component <br> - moved validation to shared layer | Feature Sliced Design |
 | 1 | October 21, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - updated auth state <br> - display correct username | |
 
 ## Attempt #2 (better but still failed)
