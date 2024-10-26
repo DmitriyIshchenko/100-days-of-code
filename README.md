@@ -4,7 +4,8 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
-| 5 | October 25, 2024 | Christmas shop | - create a header element <br> - create a hero element | |
+| 6 | October 26, 2024 | Christmas shop | - fixed hero and header styles <br> - created an "About" section <br> - created a slider section <br> - created a "Best Gifts" section | CSS background-image property |
+| 5 | October 25, 2024 | Christmas shop | - created a header element <br> - created a hero element | |
 | 4 | October 24, 2024 | Christmas shop | - config global styles | |
 | 3 | October 23, 2024 | Christmas shop | - started new RS School task <br> - set up the project boilerplate <br> - set up the deployment to GitHub pages | |
 | 2 | October 22, 2024 | [Puzzle](https://github.com/DmitriyIshchenko/puzzle) | - updated the LoginForm component <br> - moved validation to shared layer | Feature Sliced Design |
