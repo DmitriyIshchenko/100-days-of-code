@@ -4,7 +4,8 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
-| 8 | October 28, 2024 | Christmas shop | - create a "Gifts" page <br> - adapted the layout for 768px screen | |
+| 9 | October 29, 2024 | Christmas shop | - removed the unnecessary nesting of containers <br> - adapted both pages for small screens <br> - finished part 2 of the task| |
+| 8 | October 28, 2024 | Christmas shop | - created a "Gifts" page <br> -finished part 1 of the task <br> - adapted the layout for 768px screen | |
 | 7 | October 27, 2024 | Christmas shop | - created a "CTA" section <br> - created a footer | |
 | 6 | October 26, 2024 | Christmas shop | - fixed hero and header styles <br> - created an "About" section <br> - created a slider section <br> - created a "Best Gifts" section | CSS background-image property |
 | 5 | October 25, 2024 | Christmas shop | - created a header element <br> - created a hero element | |
