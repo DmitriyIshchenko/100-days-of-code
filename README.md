@@ -4,7 +4,8 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
-| 9 | October 29, 2024 | Christmas shop | - removed the unnecessary nesting of containers <br> - adapted both pages for small screens <br> - finished part 2 of the task| |
+| 10 | October 30, 2024 | Christmas shop | - implemented a burger menu navigation <br> - implemented a countdown timer <br> - created cards with JavaScript <br> - implemented a card filters <br> - implemented a "scroll up" button <br> - implemented a card randomizer | |
+| 9 | October 29, 2024 | Christmas shop | - removed the unnecessary nesting of containers <br> - adapted both pages for small screens <br> - finished part 2 of the task | |
 | 8 | October 28, 2024 | Christmas shop | - created a "Gifts" page <br> -finished part 1 of the task <br> - adapted the layout for 768px screen | |
 | 7 | October 27, 2024 | Christmas shop | - created a "CTA" section <br> - created a footer | |
 | 6 | October 26, 2024 | Christmas shop | - fixed hero and header styles <br> - created an "About" section <br> - created a slider section <br> - created a "Best Gifts" section | CSS background-image property |
