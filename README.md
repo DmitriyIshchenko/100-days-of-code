@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 12 | November 1, 2024 | Christmas shop | - styled the modal component <br> - implemented a functionality of closing modal on backdrop click <br> - implemented a slider component | |
 | 11 | October 31, 2024 | Christmas shop | - implemented a base component class <br> - refactored the creation of cards <br> - implemented a modal component | CSS Subgrid |
 | 10 | October 30, 2024 | Christmas shop | - implemented a burger menu navigation <br> - implemented a countdown timer <br> - created cards with JavaScript <br> - implemented a card filters <br> - implemented a "scroll up" button <br> - implemented a card randomizer | |
 | 9 | October 29, 2024 | Christmas shop | - removed the unnecessary nesting of containers <br> - adapted both pages for small screens <br> - finished part 2 of the task | |
