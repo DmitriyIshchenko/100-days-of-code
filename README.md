@@ -4,8 +4,9 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
-| 15 | November 4, 2024 | | - continued the canvas tutorial (styles and colors) | Canvas API |
-| 14 | November 3, 2024 | | - continued the canvas tutorial (Path2D) | Canvas API |
+| 16 | November 5, 2024 | | - continued the canvas tutorial - basic animations | Canvas API |
+| 15 | November 4, 2024 | | - continued the canvas tutorial - styles and colors | Canvas API |
+| 14 | November 3, 2024 | | - continued the canvas tutorial - Path2D | Canvas API |
 | 13 | November 2, 2024 | Christmas shop | - made minor changes and finished the task <br> - started a Canvas API tutorial <br> - drew shapes with rectangles and arcs | Canvas API |
 | 12 | November 1, 2024 | Christmas shop | - styled the modal component <br> - implemented a functionality of closing modal on backdrop click <br> - implemented a slider component | |
 | 11 | October 31, 2024 | Christmas shop | - implemented a base component class <br> - refactored the creation of cards <br> - implemented a modal component | CSS Subgrid |
