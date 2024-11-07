@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 18 | November 7, 2024 | | - continued the canvas tutorial - transformations | Canvas API |
 | 17 | November 6, 2024 | | - experimented with Canvas API <br> - implemented a pie chart demo | Canvas API |
 | 16 | November 5, 2024 | | - continued the canvas tutorial - basic animations | Canvas API |
 | 15 | November 4, 2024 | | - continued the canvas tutorial - styles and colors | Canvas API |
