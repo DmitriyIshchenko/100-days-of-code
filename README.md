@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 21 | November 10, 2024 | | - started another canvas tutorial <br> - mastered the art of shapes drawing /s | Canvas API |
 | 20 | November 9, 2024 | | - experimented with Canvas animations | Canvas API |
 | 19 | November 8, 2024 | | - converted the pie chard demo into wheel <br> - draw rotated text on corresponding segment | Canvas API |
 | 18 | November 7, 2024 | | - continued the canvas tutorial - transformations | Canvas API |
