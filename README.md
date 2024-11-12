@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 23 | November 12, 2024 | | - implemented interactivity for circles demo | Canvas API |
 | 22 | November 11, 2024 | | - created a bouncing circles animation | Canvas API |
 | 21 | November 10, 2024 | | - started another canvas tutorial <br> - mastered the art of shapes drawing /s | Canvas API |
 | 20 | November 9, 2024 | | - experimented with Canvas animations | Canvas API |
