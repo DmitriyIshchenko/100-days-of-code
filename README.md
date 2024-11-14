@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 25 | November 14, 2024 | | - refactored wheel class <br> - implemented a cursor <br> - implemented a wheel randomization <br> - implemented a detection of the segment under the cursor | |
 | 24 | November 13, 2024 | | - implement a spinning animation for the wheel | Canvas API |
 | 23 | November 12, 2024 | | - implemented interactivity for circles demo | Canvas API |
 | 22 | November 11, 2024 | | - created a bouncing circles animation | Canvas API |
