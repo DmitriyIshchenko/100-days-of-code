@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 28 | November 17, 2024 | Total Typescript Workshop | | - type narrowing <br> - union types <br> - discriminated unions  |
 | 27 | November 16, 2024 | Total Typescript Workshop | | - type narrowing  |
 | 26 | November 15, 2024 | Total Typescript Workshop | | - TypeScript and its purpose <br> - project setup for typescript <br> - typescript linting <br> - CI with typescript  |
 | 25 | November 14, 2024 | Wheel demo | - refactored wheel class <br> - implemented a cursor <br> - implemented a wheel randomization <br> - implemented a detection of the segment under the cursor | |
