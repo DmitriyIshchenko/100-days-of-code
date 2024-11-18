@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 29 | November 18, 2024 | Total Typescript Workshop | | - object type <br> - interface vs type alias <br> - index signatures <br> - utility types  |
 | 28 | November 17, 2024 | Total Typescript Workshop | | - type narrowing <br> - union types <br> - discriminated unions  |
 | 27 | November 16, 2024 | Total Typescript Workshop | | - type narrowing  |
 | 26 | November 15, 2024 | Total Typescript Workshop | | - TypeScript and its purpose <br> - project setup for typescript <br> - typescript linting <br> - CI with typescript  |
