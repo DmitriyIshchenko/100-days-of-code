@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 30 | November 19, 2024 | Total Typescript Workshop | | - mutability in TS <br> - `as const` <br> - classes in TS <br> - TS data modifiers |
 | 29 | November 18, 2024 | Total Typescript Workshop | | - object type <br> - interface vs type alias <br> - index signatures <br> - utility types  |
 | 28 | November 17, 2024 | Total Typescript Workshop | | - type narrowing <br> - union types <br> - discriminated unions  |
 | 27 | November 16, 2024 | Total Typescript Workshop | | - type narrowing  |
