@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 32 | November 21, 2024 | Total Typescript Workshop | | - design principles <br>  - TS assertions <br> - TS `satisfies` |
 | 31 | November 20, 2024 | Total Typescript Workshop | | - TS only features (enums and namespaces) <br> - deriving types: `keyof`, `typeof`, indexed access types |
 | 30 | November 19, 2024 | Total Typescript Workshop | | - mutability in TS <br> - `as const` <br> - classes in TS <br> - TS data modifiers |
 | 29 | November 18, 2024 | Total Typescript Workshop | | - object type <br> - interface vs type alias <br> - index signatures <br> - utility types  |
