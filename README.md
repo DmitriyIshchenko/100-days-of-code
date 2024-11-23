@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 34 | November 23, 2024 | Total Typescript Workshop | | - Liskov substitution principle <br> - TS excess properties and function parameters |
 | 33 | November 22, 2024 | Total Typescript Workshop | | - single responsibility principle <br> - open/closed principle <br> - Liskov substitution principle <br> - TS `satisfies` operator |
 | 32 | November 21, 2024 | Total Typescript Workshop | | - design principles <br>  - TS assertions <br> - TS `satisfies` |
 | 31 | November 20, 2024 | Total Typescript Workshop | | - TS only features (enums and namespaces) <br> - deriving types: `keyof`, `typeof`, indexed access types |
