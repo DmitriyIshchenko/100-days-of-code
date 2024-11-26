@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 37 | November 26, 2024 | Total Typescript Workshop | | - TS 3rd party types <br> - TS modifying global types <br> - TS module declarations |
 | 36 | November 25, 2024 | Total Typescript Workshop | | - TS declaration <br> - TS declaration files <br> - TS ambient context |
 | 35 | November 24, 2024 | Total Typescript Workshop | | - TS configuration <br> - ts lib files |
 | 34 | November 23, 2024 | Total Typescript Workshop | | - Liskov substitution principle <br> - TS excess properties and function parameters |
