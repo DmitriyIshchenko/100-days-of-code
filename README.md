@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 39 | November 28, 2024 | Total Typescript Workshop | | - TS generic functions |
 | 38 | November 27, 2024 | Total Typescript Workshop | | - TS generics <br> - TS mapped types |
 | 37 | November 26, 2024 | Total Typescript Workshop | | - TS 3rd party types <br> - TS modifying global types <br> - TS module declarations |
 | 36 | November 25, 2024 | Total Typescript Workshop | | - TS declaration <br> - TS declaration files <br> - TS ambient context |
