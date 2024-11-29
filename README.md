@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
+| 40 | November 29, 2024 | Total Typescript Workshop | | - TS type predicates <br> - TS assertion functions <br> - TS function overloads |
 | 39 | November 28, 2024 | Total Typescript Workshop | | - TS generic functions |
 | 38 | November 27, 2024 | Total Typescript Workshop | | - TS generics <br> - TS mapped types |
 | 37 | November 26, 2024 | Total Typescript Workshop | | - TS 3rd party types <br> - TS modifying global types <br> - TS module declarations |
