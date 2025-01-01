@@ -1,6 +1,12 @@
 # 100 days of code
 
-## Attempt #3
+## Attempt #4 (New Year's resolution edition)
+
+| Day | Date | Current project | Done | Studied |
+| --- | --- | --- | --- | --- |
+| 1 | January 1, 2025 |  | Leetcode: <br> 1480 - Running sum of 1D array <br> 1672 - Richest customer wealth <br> 412 - FizzBuzz | Recapped Big O notation <br> Array data structure |
+
+## Attempt #3 (improved but still nowhere close)
 
 | Day | Date | Current project | Done | Studied |
 | --- | --- | --- | --- | --- |
