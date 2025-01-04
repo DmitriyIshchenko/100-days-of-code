@@ -4,7 +4,8 @@
 
 | Day | Date | Current project | Done | Studied | Leetcode |
 | --- | --- | --- | --- | --- | --- |
-| 3 | January 3, 2025 | Simon says game | - started new task <br> - set up the tools <br> - set up the CI |  | 1295. Find Numbers with Even Number of Digits <br> 977. Squares of a Sorted Array <br> 1089. Duplicate Zeros |
+| 4 | January 4, 2025 | Simon says game | - implemented a component creation <br> - implemented a keyboard view | Two pointers technique | 88. Merge Sorted Array <br> 27. Remove Element <br> 26. Remove Duplicates from Sorted Array |
+| 3 | January 3, 2025 | Simon says game | - started new task <br> - set up the tools <br> - set up the CI | Two pointers technique | 1295. Find Numbers with Even Number of Digits <br> 977. Squares of a Sorted Array <br> 1089. Duplicate Zeros |
 | 2 | January 2, 2025 |  |  |  | 1342. Number of Steps to Reduce a Number to Zero <br> 876. Middle of The Linked List <br> 383. Ransom Note <br> 485. Max Consecutive Ones | |
 | 1 | January 1, 2025 |  |  | Big O notation <br> Array data structure | 1480. Running sum of 1D array <br> 1672. Richest customer wealth <br> 412. FizzBuzz |
 
