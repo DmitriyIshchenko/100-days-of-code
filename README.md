@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied | Leetcode |
 | --- | --- | --- | --- | --- | --- |
+| 7 | January 7, 2025 | Simon says game | - implemented a virtual keyboard <br> - implemented a state class <br> - synchronized user input and display component | Data structures <br> Canvas API | 283. Move Zeroes |
 | 6 | January 6, 2025 | Simon says game |  | Data structures <br> Canvas API | 1299. Replace Elements with Greatest Element on Right Side |
 | 5 | January 5, 2025 | Simon says game |  |  | 1346. Check If N and Its Double Exist <br> 941. Valid Mountain Array |
 | 4 | January 4, 2025 | Simon says game | - implemented a component creation <br> - implemented a keyboard view | Two pointers technique | 88. Merge Sorted Array <br> 27. Remove Element <br> 26. Remove Duplicates from Sorted Array |
