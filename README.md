@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied | Leetcode |
 | --- | --- | --- | --- | --- | --- |
+| 10 | January 10, 2025 | Simon says game |  |  | 27. Remove Element <br> 1051. Height Checker |
 | 9 | January 9, 2025 | Simon says game | - implemented a difficulty controls |  | 1929. Concatenation of Array <br> 2469. Convert the Temperature <br> 905. Sort Array By Parity |
 | 8 | January 8, 2025 | Simon says game | - implemented a sequence simulation |  | 2703. Return Length of Arguments Passed (lmao) <br> 3110. Score of a String <br> 2723. Add Two Promises |
 | 7 | January 7, 2025 | Simon says game | - implemented a virtual keyboard <br> - implemented a state class <br> - synchronized user input and display component |  | 283. Move Zeroes |
