@@ -4,6 +4,7 @@
 
 | Day | Date | Current project | Done | Studied | Leetcode |
 | --- | --- | --- | --- | --- | --- |
+| 12 | January 12, 2025 | Simon says game |  |  | 1920. Build Array from Permutation |
 | 11 | January 11, 2025 | Simon says game |  |  | 414. Third Maximum Number |
 | 10 | January 10, 2025 | Simon says game |  |  | 27. Remove Element <br> 1051. Height Checker |
 | 9 | January 9, 2025 | Simon says game | - implemented a difficulty controls |  | 1929. Concatenation of Array <br> 2469. Convert the Temperature <br> 905. Sort Array By Parity |
